@@ -69,4 +69,20 @@ Happy Coding! 🚀
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
