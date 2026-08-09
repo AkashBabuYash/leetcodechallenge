@@ -85,4 +85,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
