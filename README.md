@@ -101,6 +101,7 @@ Happy Coding! 🚀
 ## String Matching
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -110,6 +111,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -144,4 +147,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
