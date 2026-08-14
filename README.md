@@ -93,6 +93,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -120,6 +122,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -133,4 +136,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
