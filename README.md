@@ -151,6 +151,7 @@ Happy Coding! 🚀
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -160,4 +161,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
