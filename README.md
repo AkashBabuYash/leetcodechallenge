@@ -52,6 +52,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0051-n-queens) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
@@ -151,4 +152,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
