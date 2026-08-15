@@ -5,8 +5,9 @@ class Solution {
         for (int x : nums)
             sum += x;
 
-        if ((sum & 1) == 1)
+        if(sum%2!=0){
             return false;
+        }
 
         int target = sum / 2;
 
