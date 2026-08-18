@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
+| [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+| [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,4 +181,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
