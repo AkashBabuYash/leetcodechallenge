@@ -53,6 +53,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0051-n-queens) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
@@ -77,6 +78,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
@@ -95,6 +97,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 ## Linked List
@@ -118,12 +121,14 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
