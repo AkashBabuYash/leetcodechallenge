@@ -77,6 +77,7 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
@@ -84,6 +85,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
@@ -96,6 +98,7 @@ Happy Coding! 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
@@ -199,4 +202,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0191-number-of-1-bits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
