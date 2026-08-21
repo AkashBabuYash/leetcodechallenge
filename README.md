@@ -62,6 +62,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
 ## Knapsack Problem
@@ -193,6 +194,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
@@ -206,4 +208,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
