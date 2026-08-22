@@ -199,6 +199,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
+| [1185-day-of-the-week](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1185-day-of-the-week) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
