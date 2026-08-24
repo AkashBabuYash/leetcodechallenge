@@ -120,10 +120,12 @@ Happy Coding! 🚀
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
