@@ -105,6 +105,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -129,6 +130,7 @@ Happy Coding! 🚀
 ## String Matching
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -139,6 +141,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -239,4 +242,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
