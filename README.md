@@ -71,6 +71,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
@@ -133,6 +134,7 @@ Happy Coding! 🚀
 ## String Matching
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
