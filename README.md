@@ -69,6 +69,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
@@ -131,11 +132,13 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -266,4 +269,8 @@ Happy Coding! 🚀
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
