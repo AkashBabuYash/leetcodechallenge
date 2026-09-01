@@ -98,6 +98,7 @@ Happy Coding! 🚀
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
@@ -121,6 +122,7 @@ Happy Coding! 🚀
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 ## Linked List
@@ -239,6 +241,7 @@ Happy Coding! 🚀
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 ## Memoization
 |  |
 | ------- |
