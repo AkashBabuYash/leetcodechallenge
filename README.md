@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
@@ -170,11 +172,13 @@ Happy Coding! 🚀
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
@@ -190,6 +194,7 @@ Happy Coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
@@ -295,4 +300,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
