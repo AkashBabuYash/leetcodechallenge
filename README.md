@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0213-house-robber-ii) |
@@ -255,6 +256,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
