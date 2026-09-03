@@ -66,6 +66,7 @@ Happy Coding! 🚀
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -167,6 +168,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,12 +236,14 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
 | [1185-day-of-the-week](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1185-day-of-the-week) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
