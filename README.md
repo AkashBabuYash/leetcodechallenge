@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [0051-n-queens](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -244,6 +245,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -266,6 +268,7 @@ Happy Coding! 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
