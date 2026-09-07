@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [0198-house-robber](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -280,6 +282,7 @@ Happy Coding! 🚀
 | ------- |
 | [0136-single-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -287,6 +290,7 @@ Happy Coding! 🚀
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -348,4 +352,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0238-product-of-array-except-self) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
