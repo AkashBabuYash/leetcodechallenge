@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -352,6 +354,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
