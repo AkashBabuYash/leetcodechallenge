@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -261,6 +262,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -375,6 +377,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -382,5 +385,6 @@ Happy Coding! 🚀
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
