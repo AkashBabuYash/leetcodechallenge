@@ -53,6 +53,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0053-maximum-subarray) |
@@ -297,6 +298,7 @@ Happy Coding! 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
