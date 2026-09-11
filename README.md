@@ -52,6 +52,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0042-trapping-rain-water) |
@@ -203,6 +204,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -300,6 +302,7 @@ Happy Coding! 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
