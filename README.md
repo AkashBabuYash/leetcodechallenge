@@ -53,6 +53,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0042-trapping-rain-water) |
@@ -180,6 +181,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0125-valid-palindrome) |
@@ -402,4 +404,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
