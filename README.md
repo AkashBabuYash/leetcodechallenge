@@ -191,10 +191,12 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
+| [1392-longest-happy-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
+| [1392-longest-happy-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1392-longest-happy-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -414,4 +416,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
