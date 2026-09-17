@@ -178,6 +178,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -190,6 +191,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0443-string-compression) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
