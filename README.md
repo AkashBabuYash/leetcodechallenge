@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -175,6 +176,7 @@ Happy Coding! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
