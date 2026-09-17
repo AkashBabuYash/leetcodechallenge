@@ -1,10 +1,11 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int ans=0;
+        int sum=0;
         for(int i=0;i<nums.length;i++){
-            ans^=nums[i];
+            sum^=nums[i];
+
         }
-        return ans;
+        return sum;
         
     }
 }
