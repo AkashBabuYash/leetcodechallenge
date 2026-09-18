@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
@@ -185,6 +186,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -235,6 +237,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -346,6 +349,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 ## Union-Find
 |  |
@@ -384,6 +388,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
