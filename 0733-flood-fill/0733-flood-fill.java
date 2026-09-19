@@ -1,38 +1,27 @@
 class Solution {
-    public static void df(int[][] image,int i,int j,int n,int m,int color,boolean[][] vis,int key){
-        if(i<0 || j<0 || i>=n || j>=m || vis[i][j] || image[i][j]!=key){
-            return;
+    public static void floodcal(int[][] image,int i,int j,int n,int m,boolean[][] vis,int color,int tar){
+        if(i<0 || j<0 || i>=n || j>=m || vis[i][j] || image[i][j]!=tar){
+            return ;
         }
-
-        image[i][j]=color;
         vis[i][j]=true;
+        image[i][j]=color;
 
-        df(image,i+1,j,n,m,color,vis,key);
-        df(image,i-1,j,n,m,color,vis,key);
-        df(image,i,j+1,n,m,color,vis,key);
-        df(image,i,j-1,n,m,color,vis,key);
-        
+        floodcal(image,i+1,j,n,m,vis,color,tar);
+        floodcal(image,i-1,j,n,m,vis,color,tar);
+        floodcal(image,i,j+1,n,m,vis,color,tar);
+        floodcal(image,i,j-1,n,m,vis,color,tar);
+
+
+
 
     }
-
-
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        
+        boolean[][] vis=new boolean[image.length][image[0].length];
+        
 
-        int n = image.length;
-        int m = image[0].length;
-
-        boolean[][] vis = new boolean[n][m];
-
-
-        int original = image[sr][sc];
-
-        if (original == color)
-            return image;
-
-        df(image,sr,sc,n,m,color,vis,original);
-
-      
-
+       int tar=image[sr][sc];
+        floodcal(image,sr,sc,image.length,image[0].length,vis,color,tar);
         return image;
     }
 }
