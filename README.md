@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0125-valid-palindrome) |
@@ -313,6 +314,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0096-unique-binary-search-trees) |
@@ -454,4 +456,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
