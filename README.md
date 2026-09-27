@@ -90,6 +90,7 @@ Happy Coding! 🚀
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
@@ -158,6 +159,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
@@ -312,6 +314,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
