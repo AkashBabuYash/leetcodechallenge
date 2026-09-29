@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0887-super-egg-drop](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0887-super-egg-drop) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
 ## Knapsack Problem
 |  |
@@ -325,6 +326,7 @@ Happy Coding! 🚀
 | [0062-unique-paths](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0096-unique-binary-search-trees) |
+| [0887-super-egg-drop](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0887-super-egg-drop) |
 | [1185-day-of-the-week](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1185-day-of-the-week) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
@@ -354,6 +356,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0887-super-egg-drop](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0887-super-egg-drop) |
 ## Memoization
 |  |
 | ------- |
