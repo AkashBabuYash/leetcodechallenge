@@ -140,6 +140,7 @@ Happy Coding! 🚀
 | [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -152,6 +153,7 @@ Happy Coding! 🚀
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -162,6 +164,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -177,6 +180,7 @@ Happy Coding! 🚀
 | [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Linked List
@@ -355,6 +359,7 @@ Happy Coding! 🚀
 | [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0887-super-egg-drop) |
 ## Memoization
