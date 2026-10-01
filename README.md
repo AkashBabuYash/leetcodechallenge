@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
@@ -143,6 +144,7 @@ Happy Coding! 🚀
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Happy Coding! 🚀
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +186,7 @@ Happy Coding! 🚀
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -237,6 +241,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -362,6 +367,7 @@ Happy Coding! 🚀
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0887-super-egg-drop) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Memoization
 |  |
 | ------- |
