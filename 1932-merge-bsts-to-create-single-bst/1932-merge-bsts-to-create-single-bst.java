@@ -15,10 +15,10 @@ class Solution {
 
     public boolean merge(TreeNode root, Map<Integer, TreeNode> map) {
 
-        // If root is a leaf
+    
         if (root.left == null && root.right == null) {
 
-            // Check if another tree has this value as root
+        
             if (map.containsKey(root.val)) {
 
                 TreeNode tree = map.remove(root.val);
@@ -49,7 +49,6 @@ class Solution {
 
         Set<Integer> leaves = new HashSet<>();
 
-        // Store every tree by its root value
         for (TreeNode tree : trees) {
             map.put(tree.val, tree);
 
@@ -62,7 +61,6 @@ class Solution {
             }
         }
 
-        // Find final root
         TreeNode root = null;
 
         for (TreeNode tree : trees) {
