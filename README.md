@@ -156,6 +156,7 @@ Happy Coding! 🚀
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -241,6 +242,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -387,6 +389,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Bidirectional Search
 |  |
@@ -477,9 +480,14 @@ Happy Coding! 🚀
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0043-multiply-strings) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
