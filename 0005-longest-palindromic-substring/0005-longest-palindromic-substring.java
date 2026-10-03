@@ -1,15 +1,21 @@
 class Solution {
 
-    public String expand(String s, int left, int right) {
+    public static String dfs(String s, int start, int end) {
 
-        while (left >= 0 && right < s.length() &&
-               s.charAt(left) == s.charAt(right)) {
+        int left = start;
+        int right = end;
 
-            left--;
-            right++;
+        while (left <= right) {
+
+            if (s.charAt(left) != s.charAt(right)) {
+                return "";
+            }
+
+            left++;
+            right--;
         }
 
-        return s.substring(left + 1, right);
+        return s.substring(start, end + 1);
     }
 
     public String longestPalindrome(String s) {
@@ -18,17 +24,16 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
 
-            String odd = expand(s, i, i);
+            for (int j = s.length() - 1; j >= i; j--) {
 
-            if (odd.length() > max.length()) {
-                max = odd;
-            }
+                if (s.charAt(i) == s.charAt(j)) {
 
-        
-            String even = expand(s, i, i + 1);
+                    String temp = dfs(s, i, j);
 
-            if (even.length() > max.length()) {
-                max = even;
+                    if (temp.length() > max.length()) {
+                        max = temp;
+                    }
+                }
             }
         }
 
