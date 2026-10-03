@@ -1,36 +1,37 @@
 class Solution {
 
-    public static boolean count(String st) {
-        int s = 0;
-        int end = st.length() - 1;
+    public String expand(String s, int left, int right) {
 
-        while (s <= end) {
-            if (st.charAt(s) != st.charAt(end)) {
-                return false;
-            }
-            s++;
-            end--;
+        while (left >= 0 && right < s.length() &&
+               s.charAt(left) == s.charAt(right)) {
+
+            left--;
+            right++;
         }
 
-        return true;
+        return s.substring(left + 1, right);
     }
 
     public String longestPalindrome(String s) {
 
-        String ans = "";
+        String max = "";
 
-        for (int i = 1; i <= s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
 
-            for (int j = 0; j < i; j++) {
+            String odd = expand(s, i, i);
 
-                String st = s.substring(j, i);
+            if (odd.length() > max.length()) {
+                max = odd;
+            }
 
-                if (count(st) && st.length() > ans.length()) {
-                    ans = st;
-                }
+        
+            String even = expand(s, i, i + 1);
+
+            if (even.length() > max.length()) {
+                max = even;
             }
         }
 
-        return ans;
+        return max;
     }
 }
