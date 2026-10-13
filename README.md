@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0887-super-egg-drop](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0887-super-egg-drop) |
 | [1049-last-stone-weight-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1049-last-stone-weight-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -486,6 +487,7 @@ Happy Coding! 🚀
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
 | ------- |
@@ -494,4 +496,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
