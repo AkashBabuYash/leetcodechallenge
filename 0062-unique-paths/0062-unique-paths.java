@@ -1,7 +1,11 @@
-class Solution {
-    public static int dfs(int m, int n, int i, int j, int[][] dp) {
 
-        if (i >= m || j >= n) {
+import java.util.Arrays;
+
+class Solution {
+    public static int dfs(int i, int j, int m, int n,
+                          boolean[][] vis, int[][] dp) {
+
+        if (i < 0 || j < 0 || i >= m || j >= n || vis[i][j]) {
             return 0;
         }
 
@@ -13,22 +17,24 @@ class Solution {
             return dp[i][j];
         }
 
-        int x = dfs(m, n, i + 1, j, dp);
-        int y = dfs(m, n, i, j + 1, dp);
+        vis[i][j] = true;
 
-        dp[i][j] = x + y;
+        int x = dfs(i + 1, j, m, n, vis, dp);
+        int y = dfs(i, j + 1, m, n, vis, dp);
 
-        return dp[i][j];
+        vis[i][j] = false;
+
+        return dp[i][j] = x + y;
     }
 
     public int uniquePaths(int m, int n) {
-
+        boolean[][] vis = new boolean[m][n];
         int[][] dp = new int[m][n];
 
         for (int i = 0; i < m; i++) {
             Arrays.fill(dp[i], -1);
         }
 
-        return dfs(m, n, 0, 0, dp);
+        return dfs(0, 0, m, n, vis, dp);
     }
 }
