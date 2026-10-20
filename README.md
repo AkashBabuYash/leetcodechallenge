@@ -166,6 +166,7 @@ Happy Coding! 🚀
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Happy Coding! 🚀
 | [0994-rotting-oranges](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -493,6 +496,7 @@ Happy Coding! 🚀
 | [0207-course-schedule](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0207-course-schedule) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
