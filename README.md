@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
@@ -114,6 +115,7 @@ Happy Coding! 🚀
 | [0213-house-robber-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0887-super-egg-drop](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0887-super-egg-drop) |
@@ -158,6 +160,7 @@ Happy Coding! 🚀
 | [0207-course-schedule](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0572-subtree-of-another-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -175,6 +178,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0994-rotting-oranges) |
@@ -338,6 +342,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0079-word-search) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -386,6 +391,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -494,6 +500,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1971-find-if-path-exists-in-graph) |
@@ -510,6 +517,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -523,4 +531,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
