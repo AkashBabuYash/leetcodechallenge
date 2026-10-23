@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0213-house-robber-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
@@ -259,6 +260,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -281,6 +283,7 @@ Happy Coding! 🚀
 | [0056-merge-intervals](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
@@ -359,6 +362,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0887-super-egg-drop](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0887-super-egg-drop) |
 | [1185-day-of-the-week](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/1185-day-of-the-week) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -372,6 +376,7 @@ Happy Coding! 🚀
 | ------- |
 | [0136-single-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search Tree
 |  |
@@ -383,6 +388,7 @@ Happy Coding! 🚀
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
