@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0322-coin-change) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [0061-rotate-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0443-string-compression) |
