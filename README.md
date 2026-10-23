@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
@@ -264,6 +265,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -288,6 +290,7 @@ Happy Coding! 🚀
 | [0056-merge-intervals](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0350-intersection-of-two-arrays-ii) |
