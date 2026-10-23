@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -294,6 +295,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [3024-type-of-triangle](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/3024-type-of-triangle) |
