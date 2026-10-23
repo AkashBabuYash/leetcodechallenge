@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0039-combination-sum) |
@@ -216,6 +217,7 @@ Happy Coding! 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0061-rotate-list) |
