@@ -66,6 +66,7 @@ Happy Coding! 🚀
 | [0046-permutations](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0066-plus-one) |
@@ -364,6 +365,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0079-word-search) |
@@ -543,6 +545,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0054-spiral-matrix) |
 ## Bipartite Graph
 |  |
 | ------- |
