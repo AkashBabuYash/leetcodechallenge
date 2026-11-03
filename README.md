@@ -148,6 +148,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -166,6 +167,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -201,6 +203,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -404,6 +407,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
