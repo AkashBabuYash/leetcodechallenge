@@ -18,9 +18,9 @@ class Solution {
         if(root==null){
             return 0;
         }
-
         int x=maxDepth(root.left);
         int y=maxDepth(root.right);
+
         return Math.max(x,y)+1;
         
     }
