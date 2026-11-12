@@ -122,6 +122,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0213-house-robber-ii) |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
@@ -173,6 +175,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -212,6 +215,7 @@ Happy Coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0450-delete-node-in-a-bst) |
@@ -577,4 +581,8 @@ Happy Coding! 🚀
 | ------- |
 | [0207-course-schedule](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
