@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -417,6 +418,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0099-recover-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkashBabuYash/leetcodechallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
